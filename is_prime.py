@@ -14,5 +14,3 @@ def prime(n):
             if len(primes) == n:
                     break
     return primes
-
-print(prime(5))
